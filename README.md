@@ -1,4 +1,13 @@
-## Hi there 👋
+# About Me
+
+- 🔭 I’m currently working on my first custom mechanical keyboard.
+- 🌱 I’m currently learning Git, Python, Perl, PowerBI, and French
+- 💬 Feel free to ask me about SAS
+- 😄 Pronouns: He/Him
+- ⚡ Fun Fact: A large cheese pizza might be three times more radioactive than a banana. ("Hot Banana")
+
+---
+“Hot Banana.” Xkcd.com, 2022, what-if.xkcd.com/158/. Accessed 30 May 2025.
 
 <!--
 **LilBobbyTabls/LilBobbyTabls** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
